@@ -110,21 +110,12 @@
               }
             },
             {
-              "startDate": "1987-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
+              "startDate": "1981-01-01",
+              "endDate": "2009-12-31",
+              "cohort": "FNBCS-81",
               "category": {
                 "fi": "kohorttilaiset",
                 "en": "subjects"
-              }
-            },
-            {
-              "startDate": "1969-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "vanhemmat",
-                "en": "parents"
               }
             },
             {
@@ -183,7 +174,7 @@
             },
             {
               "startDate": "1991-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2011-12-31",
               "cohort": "FIPS-Conduct dis.",
               "category": {
                 "fi": "kohorttilaiset",
@@ -192,7 +183,7 @@
             },
             {
               "startDate": "1969-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2011-12-31",
               "cohort": "FIPS-Conduct dis.",
               "category": {
                 "fi": "vanhemmat",
@@ -219,7 +210,7 @@
             },
             {
               "startDate": "1987-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2012-12-31",
               "cohort": "FIPS-Depression",
               "category": {
                 "fi": "kohorttilaiset",
@@ -228,7 +219,7 @@
             },
             {
               "startDate": "1969-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2017-12-31",
               "cohort": "FIPS-Depression",
               "category": {
                 "fi": "vanhemmat",
@@ -246,7 +237,7 @@
             },
             {
               "startDate": "1969-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2009-12-31",
               "cohort": "FIPS-Schizophrenia",
               "category": {
                 "fi": "vanhemmat",
@@ -255,7 +246,7 @@
             },
             {
               "startDate": "1983-01-01",
-              "endDate": "2008-12-31",
+              "endDate": "2009-12-31",
               "cohort": "FIPS-Bipolar",
               "category": {
                 "fi": "kohorttilaiset",
@@ -264,7 +255,7 @@
             },
             {
               "startDate": "1969-01-01",
-              "endDate": "2015-12-31",
+              "endDate": "2009-12-31",
               "cohort": "FIPS-Bipolar",
               "category": {
                 "fi": "vanhemmat",
@@ -287,6 +278,15 @@
               "category": {
                 "fi": "vanhemmat",
                 "en": "parents"
+              }
+            },
+            {
+              "startDate": "1987-01-01",
+              "endDate": "2016-12-31",
+              "cohort": "FIPS-OCD",
+              "category": {
+                "fi": "kohorttilaiset",
+                "en": "subjects"
               }
             },
             {
@@ -306,6 +306,24 @@
                 "fi": "vanhemmat",
                 "en": "parents"
               }
+            },
+            {
+              "startDate": "2008-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
+              "category": {
+                "fi": "kohorttilaiset",
+                "en": "subjects"
+              }
+            },
+            {
+              "startDate": "2006-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
+              "category": {
+                "fi": "vanhemmat",
+                "en": "parents"
+              }
             }
           ]
         },
@@ -320,7 +338,7 @@
           },
           "notes": {
             "en": "",
-            "fi": ""
+            "fi": "SFBC 2008-2010 VSSH alueella syntyneet lapset N = 14946"
           },
           "samplings": [
             {
@@ -396,18 +414,27 @@
               }
             },
             {
-              "startDate": "1998-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
+              "startDate": "1994-01-01",
+              "endDate": "2009-12-31",
+              "cohort": "FNBCS-81",
               "category": {
                 "fi": "kohorttilaiset",
                 "en": "subjects"
               }
             },
             {
-              "startDate": "1998-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
+              "startDate": "2008-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
+              "category": {
+                "fi": "kohorttilaiset",
+                "en": "subjects"
+              }
+            },
+            {
+              "startDate": "2006-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
               "category": {
                 "fi": "vanhemmat",
                 "en": "parents"
@@ -477,6 +504,24 @@
               "startDate": "2011-01-01",
               "endDate": "2015-12-31",
               "cohort": "1986",
+              "category": {
+                "fi": "vanhemmat",
+                "en": "parents"
+              }
+            },
+            {
+              "startDate": "2011-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
+              "category": {
+                "fi": "kohorttilaiset",
+                "en": "subjects"
+              }
+            },
+            {
+              "startDate": "2011-01-01",
+              "endDate": "2017-12-31",
+              "cohort": "SFBC",
               "category": {
                 "fi": "vanhemmat",
                 "en": "parents"
@@ -655,15 +700,6 @@
               }
             },
             {
-              "startDate": "1987-01-01",
-              "endDate": "1987-01-01",
-              "cohort": "2007",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
               "startDate": "1991-01-01",
               "endDate": "2005-12-31",
               "cohort": "FIPS-ADHD",
@@ -752,6 +788,15 @@
                 "fi": "kohorttilaiset",
                 "en": "subjects"
               }
+            },
+            {
+              "startDate": "2008-01-01",
+              "endDate": "2010-12-31",
+              "cohort": "SFBC",
+              "category": {
+                "fi": "kohorttilaiset",
+                "en": "subjects"
+              }
             }
           ]
         },
@@ -818,24 +863,6 @@
               "startDate": "1987-01-01",
               "endDate": "2015-12-31",
               "cohort": "1997",
-              "category": {
-                "fi": "vanhemmat",
-                "en": "parents"
-              }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2012-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "1987-01-01",
-              "cohort": "2007",
               "category": {
                 "fi": "vanhemmat",
                 "en": "parents"
@@ -951,15 +978,6 @@
                 "fi": "kohorttilaiset",
                 "en": "subjects"
               }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2013-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
             }
           ]
         }
@@ -1013,9 +1031,9 @@
               }
             },
             {
-              "startDate": "1987-01-01",
-              "endDate": "2012-12-31",
-              "cohort": "2007",
+              "startDate": "1991-01-01",
+              "endDate": "2009-12-31",
+              "cohort": "FNBCS-81",
               "category": {
                 "fi": "kohorttilaiset",
                 "en": "subjects"
@@ -1089,24 +1107,6 @@
                 "fi": "vanhemmat",
                 "en": "parents"
               }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "vanhemmat",
-                "en": "parents"
-              }
             }
           ]
         }
@@ -1176,24 +1176,6 @@
                 "fi": "vanhemmat",
                 "en": "parents"
               }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2011-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
-              "startDate": "1994-01-01",
-              "endDate": "2005-12-31",
-              "cohort": "2007",
-              "category": {
-                "fi": "vanhemmat",
-                "en": "parents"
-              }
             }
           ]
         }
@@ -1241,15 +1223,6 @@
               "startDate": "1997-01-01",
               "endDate": "2016-12-31",
               "cohort": "1997",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
-              "startDate": "1987-01-01",
-              "endDate": "2008-12-31",
-              "cohort": "2007",
               "category": {
                 "fi": "kohorttilaiset",
                 "en": "subjects"

@@ -19,8 +19,8 @@
         "en": ""
       },
       "name": {
-        "fi": "Ylivelkaantumistiedot",
-        "en": "Overindebtedness"
+        "fi": "<ei nimeä>",
+        "en": "<no name>"
       },
       "registerDetails": [
         {
@@ -37,6 +37,15 @@
             "fi": ""
           },
           "samplings": [
+            {
+              "startDate": "2004-01-01",
+              "endDate": "2004-01-01",
+              "cohort": "1997",
+              "category": {
+                "fi": "vanhemmat",
+                "en": "parents"
+              }
+            },
             {
               "startDate": "2010-04-01",
               "endDate": "2010-04-01",

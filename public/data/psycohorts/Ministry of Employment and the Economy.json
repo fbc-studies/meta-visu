@@ -29,8 +29,8 @@
             "en": []
           },
           "name": {
-            "en": "Summary penal judgements",
-            "fi": "Rangaistusmääräykset"
+            "en": "<no name>",
+            "fi": "<ei nimeä>"
           },
           "notes": {
             "en": "",
@@ -41,15 +41,6 @@
               "startDate": "2003-01-01",
               "endDate": "2016-12-31",
               "cohort": "1987",
-              "category": {
-                "fi": "kohorttilaiset",
-                "en": "subjects"
-              }
-            },
-            {
-              "startDate": "2003-01-01",
-              "endDate": "2016-12-31",
-              "cohort": "2007",
               "category": {
                 "fi": "kohorttilaiset",
                 "en": "subjects"
